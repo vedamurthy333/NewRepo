@@ -3,11 +3,9 @@ hello
 
 ## Heading1
 hello1
-<<<<<<< HEAD
 
 ### Heading2
-=======
->>>>>>> veda1
+hiiii1
 hello2
 
 hello3
